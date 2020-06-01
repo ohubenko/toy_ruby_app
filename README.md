@@ -65,3 +65,15 @@ Exercises 6 (2.3.4)
 2. Is there an analogous file containing a line where ApplicationRecord inherits from ActiveRecord::Base? Hint: It would probably be a file called something like application_record.rb in the app/models directory.
 
     Done.
+    
+Exercises 7 (2.3.4)
+1. Create a few users on the production app.
+
+    Done
+2. Create a few production microposts for the first user.
+
+    Done
+3. By trying to create a micropost with content over 140 characters, confirm that the validation from Listing 2.14 works on the production app.
+
+    Error.Done.
+    
